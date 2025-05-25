@@ -1,0 +1,92 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Seven Husbands of Evelyn Hugo",
+      "author": "Taylor Jenkins Reid",
+      "cover_image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=600&fit=crop",
+      "genre": "Historical Fiction",
+      "average_rating": 4.8,
+      "total_reviews": 1247,
+      "description": "A captivating novel about a reclusive Hollywood icon who finally decides to tell her story to an unknown journalist.",
+      "featured_review": "An absolutely mesmerizing tale that kept me turning pages until 3 AM. Reid's storytelling is phenomenal!"
+    },
+    {
+      "id": 2,
+      "title": "Educated",
+      "author": "Tara Westover",
+      "cover_image": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=600&fit=crop",
+      "genre": "Memoir",
+      "average_rating": 4.6,
+      "total_reviews": 892,
+      "description": "A powerful memoir about education, transformation, and the struggle between loyalty and independence.",
+      "featured_review": "This memoir is both heartbreaking and inspiring. Westover's journey from isolation to education is remarkable."
+    },
+    {
+      "id": 3,
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "cover_image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop",
+      "genre": "Fiction",
+      "average_rating": 4.4,
+      "total_reviews": 654,
+      "description": "A thought-provoking novel about life's infinite possibilities and the choices we make.",
+      "featured_review": "A beautiful exploration of what could have been. Made me reflect on my own life choices deeply."
+    },
+    {
+      "id": 4,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "cover_image": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=400&h=600&fit=crop",
+      "genre": "Self-Help",
+      "average_rating": 4.7,
+      "total_reviews": 1156,
+      "description": "A practical guide to building good habits and breaking bad ones through small changes that deliver remarkable results.",
+      "featured_review": "Changed my entire approach to productivity. The 1% better every day concept is life-changing!"
+    },
+    {
+      "id": 5,
+      "title": "Klara and the Sun",
+      "author": "Kazuo Ishiguro",
+      "cover_image": "https://images.unsplash.com/photo-1552083375-1447ce886485?w=400&h=600&fit=crop",
+      "genre": "Science Fiction",
+      "average_rating": 4.2,
+      "total_reviews": 423,
+      "description": "A touching story told from the perspective of an artificial friend observing human nature and love.",
+      "featured_review": "Ishiguro's prose is beautiful as always. Klara's perspective on humanity is both unique and moving."
+    },
+    {
+      "id": 6,
+      "title": "Project Hail Mary",
+      "author": "Andy Weir",
+      "cover_image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=400&h=600&fit=crop",
+      "genre": "Science Fiction",
+      "average_rating": 4.9,
+      "total_reviews": 987,
+      "description": "A thrilling space adventure about humanity's last hope for survival, filled with science, humor, and heart.",
+      "featured_review": "The best sci-fi I've read in years! Weir perfectly balances science, humor, and heart."
+    },
+    {
+      "id": 7,
+      "title": "The Song of Achilles",
+      "author": "Madeline Miller",
+      "cover_image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=600&fit=crop",
+      "genre": "Historical Fiction",
+      "average_rating": 4.7,
+      "total_reviews": 756,
+      "description": "A stunning retelling of the Iliad that brings the ancient world to vivid life through the eyes of Patroclus.",
+      "featured_review": "Miller's prose is lyrical and beautiful. This love story will break your heart in the best way."
+    },
+    {
+      "id": 8,
+      "title": "Circe",
+      "author": "Madeline Miller",
+      "cover_image": "https://images.unsplash.com/photo-1517003312601-b7f4f4f2c7e7?w=400&h=600&fit=crop",
+      "genre": "Fantasy",
+      "average_rating": 4.5,
+      "total_reviews": 623,
+      "description": "A captivating novel about the Greek goddess Circe, her powers, and her transformation from outcast to formidable witch.",
+      "featured_review": "A powerful story of female agency and transformation. Miller gives voice to a forgotten goddess brilliantly."
+    }
+  ]
+}
