@@ -1,0 +1,84 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "book_id": 1,
+      "book_title": "The Seven Husbands of Evelyn Hugo",
+      "reviewer_name": "Sarah M.",
+      "rating": 5,
+      "review_text": "This book completely blew me away! Taylor Jenkins Reid has crafted such a compelling character in Evelyn Hugo. The story spans decades and kept me absolutely riveted from start to finish. The twists and turns were unexpected, and the emotional depth was incredible. I found myself completely invested in Evelyn's journey and the secrets she's kept hidden for so long. The writing is sharp, the characters feel real, and the plot is masterfully constructed. This is definitely going on my list of all-time favorites!",
+      "date": "2025-05-20",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "book_id": 4,
+      "book_title": "Atomic Habits",
+      "reviewer_name": "Mike R.",
+      "rating": 5,
+      "review_text": "As someone who has struggled with building consistent habits, this book was exactly what I needed. Clear's approach is so practical and actionable. The concept of focusing on systems rather than goals really resonated with me. I've already started implementing the habit stacking technique and I'm seeing real results. The 1% better every day mindset has completely changed how I approach personal development. The book is well-structured, easy to understand, and packed with real-world examples.",
+      "date": "2025-05-18",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "book_id": 6,
+      "book_title": "Project Hail Mary",
+      "reviewer_name": "Alex Chen",
+      "rating": 5,
+      "review_text": "Andy Weir has done it again! This book is the perfect blend of hard science, humor, and heart. The protagonist's journey of discovery is absolutely thrilling, and the friendship that develops is so touching. I love how Weir makes complex scientific concepts accessible without dumbing them down. The problem-solving aspects kept me on the edge of my seat, and I genuinely cared about the outcome. The humor is perfectly timed and never feels forced. This is science fiction at its finest!",
+      "date": "2025-05-15",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "book_id": 2,
+      "book_title": "Educated",
+      "reviewer_name": "Jennifer K.",
+      "rating": 4,
+      "review_text": "Tara Westover's memoir is both heartbreaking and inspiring. Her journey from a survivalist family to earning a PhD is remarkable. The writing is beautiful and raw, and she doesn't shy away from the difficult aspects of her story. While some parts were hard to read due to the abuse described, the overall message about the power of education and self-determination is powerful. This book will stay with me for a long time. It's a testament to the human spirit and the transformative power of learning.",
+      "date": "2025-05-12",
+      "featured": true
+    },
+    {
+      "id": 5,
+      "book_id": 3,
+      "book_title": "The Midnight Library",
+      "reviewer_name": "David L.",
+      "rating": 4,
+      "review_text": "Matt Haig has created something truly special with The Midnight Library. The concept is fascinating - exploring all the different lives we could have lived. It made me think deeply about my own choices and the paths not taken. The writing is philosophical yet accessible, and Nora's journey is both relatable and profound. Some of the alternate lives felt more developed than others, but overall this was a thought-provoking and emotionally satisfying read.",
+      "date": "2025-05-10",
+      "featured": false
+    },
+    {
+      "id": 6,
+      "book_id": 7,
+      "book_title": "The Song of Achilles",
+      "reviewer_name": "Emma S.",
+      "rating": 5,
+      "review_text": "This book destroyed me in the most beautiful way possible. Madeline Miller's retelling of the Iliad through Patroclus's eyes is absolutely stunning. The relationship between Achilles and Patroclus is portrayed with such tenderness and depth. Miller's prose is lyrical and gorgeous - every sentence feels crafted with care. The ancient world comes alive on these pages, and the emotional impact is devastating. I ugly-cried at the ending. This is a masterpiece of historical fiction.",
+      "date": "2025-05-08",
+      "featured": false
+    },
+    {
+      "id": 7,
+      "book_id": 5,
+      "book_title": "Klara and the Sun",
+      "reviewer_name": "Robert T.",
+      "rating": 4,
+      "review_text": "Ishiguro's latest is a quietly powerful meditation on consciousness, love, and what it means to be human. Klara's perspective as an artificial friend is both unique and touching. The story unfolds slowly, revealing layers of complexity about family, illness, and sacrifice. While the pacing might not be for everyone, I found Klara's observations about human nature deeply moving. Ishiguro's writing is as elegant as ever, and the themes will stay with you long after finishing.",
+      "date": "2025-05-05",
+      "featured": false
+    },
+    {
+      "id": 8,
+      "book_id": 8,
+      "book_title": "Circe",
+      "reviewer_name": "Lisa W.",
+      "rating": 5,
+      "review_text": "Madeline Miller has given us another masterpiece with Circe. This retelling of the Greek myth is both empowering and beautifully written. Circe's transformation from a powerless nymph to a confident witch is inspiring to watch unfold. Miller's prose is gorgeous, and she brings the ancient world to vivid life. The feminist themes are woven naturally into the story, and the character development is exceptional. This book made me want to dive deeper into Greek mythology immediately.",
+      "date": "2025-05-02",
+      "featured": false
+    }
+  ]
+}
