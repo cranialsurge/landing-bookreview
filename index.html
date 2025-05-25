@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BookReviews - Discover Your Next Great Read</title>
+    <meta name="description" content="Discover amazing books through authentic reviews from fellow readers. Find your next great read with BookReviews.">
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <nav class="nav">
+            <div class="nav-container">
+                <div class="nav-brand">
+                    <i class="fas fa-book-open"></i>
+                    <span>BookReviews</span>
+                </div>
+                
+                <div class="nav-menu" id="nav-menu">
+                    <a href="#home" class="nav-link">Home</a>
+                    <a href="#featured" class="nav-link">Browse Books</a>
+                    <a href="#how-it-works" class="nav-link">Add Review</a>
+                    <a href="#footer" class="nav-link">About</a>
+                </div>
+                
+                <div class="nav-search">
+                    <div class="search-container">
+                        <input type="text" id="search-input" placeholder="Search books or authors...">
+                        <button class="search-btn"><i class="fas fa-search"></i></button>
+                    </div>
+                </div>
+                
+                <div class="nav-toggle" id="nav-toggle">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero" id="home">
+        <div class="hero-container">
+            <div class="hero-content">
+                <h1 class="hero-title">Discover Your Next Great Read</h1>
+                <p class="hero-subtitle">Join thousands of book lovers sharing authentic reviews and discovering amazing stories. Find books that matter to you.</p>
+                <div class="hero-buttons">
+                    <a href="#featured" class="btn btn-primary">Browse Reviews</a>
+                    <a href="#how-it-works" class="btn btn-secondary">Add Your Review</a>
+                </div>
+            </div>
+            <div class="hero-image">
+                <div class="book-stack">
+                    <div class="book book-1"></div>
+                    <div class="book book-2"></div>
+                    <div class="book book-3"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Featured Books Section -->
+    <section class="featured" id="featured">
+        <div class="container">
+            <h2 class="section-title">Featured Books</h2>
+            <p class="section-subtitle">Discover what readers are talking about</p>
+            
+            <div class="books-grid" id="books-grid">
+                <!-- Books will be dynamically loaded here -->
+            </div>
+        </div>
+    </section>
+
+    <!-- How It Works Section -->
+    <section class="how-it-works" id="how-it-works">
+        <div class="container">
+            <h2 class="section-title">How It Works</h2>
+            <div class="steps-grid">
+                <div class="step">
+                    <div class="step-icon">
+                        <i class="fas fa-search"></i>
+                    </div>
+                    <h3 class="step-title">Search for Books</h3>
+                    <p class="step-description">Find books you've read or want to read using our intuitive search feature.</p>
+                </div>
+                
+                <div class="step">
+                    <div class="step-icon">
+                        <i class="fas fa-eye"></i>
+                    </div>
+                    <h3 class="step-title">Read Reviews</h3>
+                    <p class="step-description">See what fellow readers think with detailed, authentic reviews from our community.</p>
+                </div>
+                
+                <div class="step">
+                    <div class="step-icon">
+                        <i class="fas fa-heart"></i>
+                    </div>
+                    <h3 class="step-title">Share Your Thoughts</h3>
+                    <p class="step-description">Leave your own review and help others discover their next favorite book.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Recent Reviews Section -->
+    <section class="recent-reviews">
+        <div class="container">
+            <h2 class="section-title">Recent Reviews</h2>
+            <p class="section-subtitle">See what our community is saying</p>
+            
+            <div class="reviews-grid" id="reviews-grid">
+                <!-- Reviews will be dynamically loaded here -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer" id="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <div class="footer-brand">
+                        <i class="fas fa-book-open"></i>
+                        <span>BookReviews</span>
+                    </div>
+                    <p>Discover your next great read through authentic reviews from fellow book lovers.</p>
+                    <div class="social-links">
+                        <a href="#" class="social-link"><i class="fab fa-facebook"></i></a>
+                        <a href="#" class="social-link"><i class="fab fa-twitter"></i></a>
+                        <a href="#" class="social-link"><i class="fab fa-instagram"></i></a>
+                        <a href="#" class="social-link"><i class="fab fa-goodreads"></i></a>
+                    </div>
+                </div>
+                
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="#home">Home</a></li>
+                        <li><a href="#featured">Browse Books</a></li>
+                        <li><a href="#how-it-works">Add Review</a></li>
+                        <li><a href="#footer">About</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-section">
+                    <h4>Support</h4>
+                    <ul>
+                        <li><a href="#">Contact Us</a></li>
+                        <li><a href="#">Help Center</a></li>
+                        <li><a href="#">Terms of Service</a></li>
+                        <li><a href="#">Privacy Policy</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-section">
+                    <h4>Stay Updated</h4>
+                    <p>Get notified about new features and book recommendations.</p>
+                    <div class="newsletter">
+                        <input type="email" placeholder="Enter your email">
+                        <button class="btn btn-primary">Subscribe</button>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="footer-bottom">
+                <p>&copy; 2025 BookReviews. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="main.js"></script>
+</body>
+</html>
